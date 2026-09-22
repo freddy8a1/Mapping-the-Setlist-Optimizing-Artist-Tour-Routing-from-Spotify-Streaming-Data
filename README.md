@@ -1,0 +1,2 @@
+# Mapping-the-Setlist-Optimizing-Artist-Tour-Routing-from-Spotify-Streaming-Data
+Analyzed an artist's Spotify streaming data to identify where their music is heard most, using the findings to optimize tour routing and surface untapped markets. Applied geographic demand analysis, momentum detection, and market clustering techniques to translate streaming patterns into actionable touring recommendations.
